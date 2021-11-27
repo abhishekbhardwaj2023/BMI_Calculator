@@ -5,10 +5,6 @@ window = Tk()
 window.title("BMI Calculator")
 window.config(padx=50, pady=50)
 
-# canvas = Canvas(height=200, width=200)
-# logo_img = PhotoImage(file="D:/VS_Code Programs/Python/BMI Calculator/BMI-Calculator.png")
-# canvas.create_image(width= 100, height= 100, image=logo_img)
-# canvas.grid(row=0, column=1)
 
 # Label
 
